@@ -1,0 +1,12 @@
+p {
+    text-decoration: underline;
+    color: red;
+}
+
+html, body, h1, h2, h3, p, ol, ul, li, a { padding: 0; border:0; margin: 0 }
+
+body { padding: 20px 20px 20px 20px }
+
+/*h1 {*/
+    /*margin: 10px 0 15px 0;*/
+/*}*/
